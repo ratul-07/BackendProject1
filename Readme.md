@@ -1,4 +1,4 @@
-# LEARNING BAKCEND FROM SRATCH
+# LEARNING BACKEND FROM CHAI AUR CODE
 
 This is my first project for learning backend
 
