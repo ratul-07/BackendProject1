@@ -7,8 +7,8 @@ class apiError extends Error {
     ){
         super(message)
         this.statusCode= statusCode
-        this.data = null
-        this.success = false
+        this.data = null // set this property if you want to attach additional data to the error
+        this.success = false //set this property according to the nature of the error
         this.errors = errors
 
         if(stack){
